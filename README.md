@@ -1,6 +1,6 @@
 # Pizza-Sales-Analytics-Using-Power-BI
 
-Analysis by Revenue, Orders, Peak days/Hours, Pizza
+Analysis by Revenue, Orders, Peak days, Pizza
 
 **Business Understanding**
 
