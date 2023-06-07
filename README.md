@@ -26,4 +26,4 @@ This dataset contains 4 tables in CSV format
 * I re-modelled the data relationship.
 * I created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings month over month, quarter over quarter.
 
-![Pizza Analysis Dashboard](https://github.com/rishikeshm123/Pizza-Sales-Analytics-Using-Power-BI/assets/105847924/2b0af55c-94f5-463b-a9c4-31381b23c72d)
+![Pizza Analysis Dashboard](https://github.com/rishikeshm123/Pizza-Sales-Analytics-Using-Power-BI/assets/105847924/1dc3ec59-0037-4e1c-a110-3ea8acfa275a)
